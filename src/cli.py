@@ -6,7 +6,6 @@ import psutil
 import shutil
 import subprocess
 from tqdm import tqdm
-
 from config import (
     PID_FILE,
     LOG_DIR,
