@@ -179,3 +179,10 @@ Delpyche se distribuye bajo la **licencia MIT**. Consulta el archivo [LICENSE](L
 
 ¡Gracias por usar Delpyche! Espero que te ayude a mantener tu entorno Python **limpio** y **organizado**, sin `__pycache__`.
 
+## Vista Previa
+
+**Start**
+<img src="assets/start.png"> 
+
+**Info**
+<img src="assets/info.png"> 
