@@ -24,7 +24,7 @@ Delpyche ofrece las siguientes funcionalidades clave para **gestionar y eliminar
 
 ## Instalacion de la version compilada:
 
-Descarga e instala ![Delpyche](https://github.com/DevnisG/Delpyche/releases/download/Delpyche/Setup_x64_Delpyche_v1.0.exe) siguiendo el proceso de instalación estándar.
+Descarga e instala [Delpyche](https://github.com/DevnisG/Delpyche/releases/download/Delpyche/Setup_x64_Delpyche_v1.0.exe) siguiendo el proceso de instalación estándar.
 - El instalador **Delpy.exe** añadirá la ruta al **Path** del sistema, permitiendo ejecutarlo desde cualquier terminal al iniciar un proyecto.
 
 ## ¿Cómo se utiliza?
