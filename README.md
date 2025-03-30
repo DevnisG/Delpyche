@@ -182,7 +182,7 @@ Delpyche se distribuye bajo la **licencia MIT**. Consulta el archivo [LICENSE](L
 ## Vista Previa
 
 **Start**
-<img src="github/start.png"> 
+<img src="assets/start.png"> 
 
 **Info**
-<img src="github/info.png"> 
+<img src="assets/info.png"> 
