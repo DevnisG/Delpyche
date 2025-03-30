@@ -24,9 +24,8 @@ Delpyche ofrece las siguientes funcionalidades clave para **gestionar y eliminar
 
 ## Instalacion de la version compilada:
 
-- Visita la seccion de **Relases** para descargar la ultima version de _Delpy_ disponible.
-- Descarga el archivo con la version mas reciente, descomprime el .RAR/ZIP y ejecuta el archivo setup.ps1/bat
-- La idea es que Delpy.exe quede accesible desde el **Path** de tu sistema, permitiendo asi poder llamar a la aplicacion desde cualquier terminal.
+Descarga e instala ![Delpyche](https://github.com/DevnisG/Delpyche/releases/download/Delpyche/Setup_x64_Delpyche_v1.0.exe) siguiendo el proceso de instalación estándar.
+- El instalador **Delpy.exe** añadirá la ruta al **Path** del sistema, permitiendo ejecutarlo desde cualquier terminal al iniciar un proyecto.
 
 ## ¿Cómo se utiliza?
 
